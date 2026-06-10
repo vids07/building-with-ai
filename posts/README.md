@@ -8,9 +8,13 @@ This repo contains:
 * experiments with AI workflows
 * lessons about judgment, systems, and decision-making
 
+
 ## Posts
 
-- [The Day I Realized I Was the Least Intelligent Person in My Own Team](posts/the-day-i-realized.md)
+* [Separating Judgment From Implementation](posts/separating-judgement-from-implementation.md)
 
-- [Separating Judgment From Implementation](posts/separating-judgement-from-implementation.md)
+* [The Day I Realized I Was the Least Intelligent Person in My Own Team](posts/the-day-i-realized.md)
+
+
+
 
