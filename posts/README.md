@@ -2,7 +2,7 @@
 
 ### Exploring how to work with AI without giving up personal judgment, presence, and independent thinking.
 
-### Public notes and reflections on building software with AI agents.
+#### Public notes and reflections on building software with AI agents.
 
 This repo contains:
 
