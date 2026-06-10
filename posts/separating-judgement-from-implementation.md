@@ -4,7 +4,7 @@
 > I was reacting to AI outputs.
 I Stopped Letting AI Think For Me
 
-![thumbnail](../images/images/AI-vs-human-roles-system.png)
+![thumbnail](../images/ai-vs-human-roles-system.png)
 
 # At first, building with AI felt incredible.
 
