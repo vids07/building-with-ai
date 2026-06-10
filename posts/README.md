@@ -9,6 +9,9 @@ This repo contains:
 * lessons about judgment, systems, and decision-making
 
 ## Posts
-* 
+
+* [Separating Judgment From Implementation](./posts/separating-judgement-from-implementation.md)
+
 * [The Day I Realized I Was the Least Intelligent Person in My Own Team](./posts/the-day-i-realized.md)
+
 
