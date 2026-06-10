@@ -1,67 +1,16 @@
 # Building With AI
 
-This repository is my public log of learning how to build software with AI agents without outsourcing judgement.
+Public notes and reflections on building software with AI agents.
 
-I realized I was letting AI make architectural and implementation decisions by default because I didn’t yet have strong systems for making them myself.
+This repo contains:
 
-So this repo is where I document:
+* thoughts from real projects
+* experiments with AI workflows
+* lessons about judgment, systems, and decision-making
 
-* decisions
-* tradeoffs
-* architecture changes
-* failures
-* reasoning
-* experiments
-* AI workflows
 
-The goal is not polished production systems.
+## Posts
 
-The goal is understanding how to build with AI while still remaining the one steering the system.
+* [Separating Judgment From Implementation](posts/separating-judgement-from-implementation.md)
 
----
-
-## Core Principle
-
-AI handles implementation.
-
-Humans handle judgement.
-
-That means:
-
-* AI can write code
-* AI can refactor
-* AI can verify consistency
-
-But:
-
-* direction
-* priorities
-* tradeoffs
-* architecture decisions
-
-must remain human responsibilities.
-
----
-
-## Repository Structure
-
-```txt
-decision-log/   → daily engineering notes
-posts/          → longer reflections and essays
-rfcs/           → architecture and system decisions
-architecture/   → diagrams and technical structure
-project/        → actual implementation work
-```
-
----
-
-## Current Focus
-
-Right now I’m focused on:
-
-* separating judgement from implementation
-* creating grounded AI workflows
-* avoiding context drift and hallucinations
-* documenting engineering reasoning publicly
-* learning through iteration instead of theory
-
+* [The Day I Realized I Was the Least Intelligent Person in My Own Team](posts/the-day-i-realized.md)
