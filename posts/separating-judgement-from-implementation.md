@@ -4,6 +4,8 @@
 > I was reacting to AI outputs.
 I Stopped Letting AI Think For Me
 
+![thumbnail](../images/images/AI-vs-human-roles-system.png)
+
 # At first, building with AI felt incredible.
 
 I’d say “do this” and it would do it. “Change that” — done. I was shipping fast. I thought I was building.
