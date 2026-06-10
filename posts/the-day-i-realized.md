@@ -1,6 +1,6 @@
 # The Day I Realized I Was the Least Intelligent Person in My Own Team
 
-![thumbnail](../assets/the-day-i-realized.png)
+![thumbnail](../images/the-day-i-realized.png)
 
 Today I built a team of AI agents: a software architect, a senior engineer, a product owner, a QA, and a client.
 
