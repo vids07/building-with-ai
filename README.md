@@ -1,6 +1,8 @@
 # Building With AI
 
-Public notes and reflections on building software with AI agents.
+#### Exploring how to work with AI without giving up personal judgment, presence, and independent thinking.
+
+#### Public notes and reflections on building software with AI agents.
 
 This repo contains:
 
@@ -14,3 +16,7 @@ This repo contains:
 * [Separating Judgment From Implementation](posts/separating-judgement-from-implementation.md)
 
 * [The Day I Realized I Was the Least Intelligent Person in My Own Team](posts/the-day-i-realized.md)
+
+
+
+
