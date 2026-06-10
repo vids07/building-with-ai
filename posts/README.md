@@ -2,6 +2,8 @@
 
 Public notes and reflections on building software with AI agents.
 
+** Finding and exploring the way to work with AI, without loosing my personal thinking, judgement and experiments. 
+
 This repo contains:
 
 * thoughts from real projects
