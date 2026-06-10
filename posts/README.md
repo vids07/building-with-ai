@@ -10,8 +10,7 @@ This repo contains:
 
 ## Posts
 
-* [Separating Judgment From Implementation](./posts/separating-judgement-from-implementation.md)
+- [The Day I Realized I Was the Least Intelligent Person in My Own Team](posts/the-day-i-realized.md)
 
-* [The Day I Realized I Was the Least Intelligent Person in My Own Team](./posts/the-day-i-realized.md)
-
+- [Separating Judgment From Implementation](posts/separating-judgement-from-implementation.md)
 
