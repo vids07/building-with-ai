@@ -1,8 +1,8 @@
 # Building With AI
 
-Public notes and reflections on building software with AI agents.
+### Exploring how to work with AI without giving up personal judgment, presence, and independent thinking.
 
-# Finding and exploring the way to work with AI, without loosing my personal thinking, judgement and experiments. 
+Public notes and reflections on building software with AI agents.
 
 This repo contains:
 
