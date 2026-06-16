@@ -13,6 +13,8 @@ This repo contains:
 
 ## Posts
 
+* [I Thought Judgment Was My Role. It Wasn't Enough](posts/This-Is-the-System-I-Built-After-the-Chaos.md)
+
 * [Separating Judgment From Implementation](posts/separating-judgement-from-implementation.md)
 
 * [The Day I Realized I Was the Least Intelligent Person in My Own Team](posts/the-day-i-realized.md)
