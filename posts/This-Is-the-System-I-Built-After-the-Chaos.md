@@ -26,7 +26,6 @@ The problem wasn't the agents.
 
 It was the absence of structure.
 
----
 
 ## The shift
 
@@ -40,7 +39,6 @@ Not everyone thinking at once.
 
 Layers.
 
----
 
 ## Layer 1 — Product
 
@@ -52,7 +50,6 @@ Nothing moves until this is clear:
 
 This layer is intentionally slow.
 
----
 
 ## Layer 2 — Architecture
 
@@ -62,7 +59,6 @@ I don't try to understand every technical detail.
 
 I stay close enough to understand the impact of the decisions being made.
 
----
 
 ## Layer 3 — Execution
 
@@ -76,7 +72,6 @@ If something changes, it goes back up the chain first.
 
 That one rule removed most of the chaos.
 
----
 
 ## Layer 4 — QA
 
@@ -85,7 +80,6 @@ Validation against what was actually decided.
 No improvisation.
 No freelancing.
 
----
 
 ## What changed
 
@@ -101,7 +95,6 @@ And for the first time, I don't feel like I'm standing outside the process watch
 
 I feel present inside it.
 
----
 
 ## What I believe now
 
