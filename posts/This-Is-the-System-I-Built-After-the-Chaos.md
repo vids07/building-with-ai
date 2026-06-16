@@ -1,5 +1,7 @@
 # I'd figured out that judgment was my job. What I hadn't figured out was how to actually structure that.
 
+![thumbnail](../images/project-planning.png)
+
 ## The mistake
 
 I'd figured out that judgment was my job.
